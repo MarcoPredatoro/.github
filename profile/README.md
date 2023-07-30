@@ -1,4 +1,4 @@
-## MARCO PREDATORO - Room-scale Mixed Reality Game👋👹👽👾
+## MARCO PREDATORO - Room-scale Mixed Reality Game👋👹👽
 
 <!--
 
@@ -15,5 +15,6 @@ Marco Predatoro is a room-scale mixed reality Alien versus Spaceman unity game. 
 
 In each repo documentation can be found on the specific implementations and how to set up separate elements to interface with eachother. This project was developed over 12 weeks for the University of Bristol third year Games Project.
 
+[***An in-depth report detailing development, workflow and technical aspects can be found here!***](GamesProject (6)-compressed.pdf)👩‍💻👾
 ***Click the image below to view a short youtube intro to the game and its development!*** 🧙 
 [![Video](https://img.youtube.com/vi/seFJKZjpeTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=seFJKZjpeTE)
