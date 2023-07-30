@@ -1,4 +1,4 @@
-## Hi there 👋
+## MARCO PREDATORO - Room-scale Mixed Reality Game👋
 
 <!--
 
@@ -10,3 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Marco Predatoro is a room-scale mixed reality Alien versus Spaceman unity game. Real life humans are mapped into the alien virtual world using Kinect cameras and AR phones while the Alien plays in full Metaquest VR, and both sides fight for what they believe is right: can humans harvest the life-saving compounds they need? Or will the alien save its precious eggs?
+
+In each repo documentation can be found on the specific implementations and how to set up separate elements to interface with eachother. 
+[![Video](https://img.youtube.com/vi/seFJKZjpeTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=seFJKZjpeTE)
