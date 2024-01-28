@@ -10,8 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-## [*Explore the Github Organisation here*](https://github.com/MarcoPredatoro/)
+## <a href="https://github.com/MarcoPredatoro/" style="text-decoration: none;">Explore the Github Organisation here</a>
 
 Marco Predatoro is a room-scale mixed reality Alien versus Spaceman unity game. Real-life humans are mapped into the alien virtual world using Kinect cameras and AR phones while the Alien plays in full Metaquest VR, and both sides fight for what they believe is right: can humans harvest the life-saving compounds they need? Or will the alien save its precious eggs?
 
